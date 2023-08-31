@@ -7,7 +7,8 @@
 [![CodeClimate Test Coverage Badge](https://api.codeclimate.com/v1/badges/ed3b115245979de5388e/test_coverage)](https://codeclimate.com/github/CaioKatsumi/EP_ESI/test_coverage)
 
 
-[![GitHub Actions](https://github.com/CaioKatsumi/EP_ESI/workflows/rails-ci.yml/badge.svg)](https://github.com/CaioKatsumi/EP_ESI/actions)
+[![GitHub Actions](https://github.com/CaioKatsumi/EP_ESI/workflows/rails-ci.yml/badge.svg)]
+
 
 [![Coveralls](https://coveralls.io/repos/github/your-username/your-project/badge.svg)](https://coveralls.io/github/CaioKatsumi/EP_ESI)
 
