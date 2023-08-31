@@ -1,0 +1,28 @@
+name: Ruby on Rails CI
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código-fonte
+        uses: actions/checkout@v2
+
+      - name: Configurar Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2.2
+
+      - name: Instalar Dependências
+        run: bundle install
+
+      - name: Rake Spec
+        run: bundle exec rake spec
+
+      - name: Rake Cucumber
+        run: bundle exec rake cucumber
