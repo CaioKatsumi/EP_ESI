@@ -1,24 +1,25 @@
-# README
+# Projeto da Disciplina ACH2006/SIN5005 - (Tópicos em) Engenharia de Sistemas de Informação (2023)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Status do Projeto
 
-Things you may want to cover:
+[![CodeClimate](https://codeclimate.com/badges/your-project-gpa.svg)](https://codeclimate.com/github/CaioKatsumi/EP_ESI)
+[![GitHub Actions](https://github.com/your-username/your-project/workflows/CI/badge.svg)](https://github.com/CaioKatsumi/EP_ESI/actions)
+[![Coveralls](https://coveralls.io/repos/github/your-username/your-project/badge.svg)](https://coveralls.io/github/CaioKatsumi/EP_ESI)
 
-* Ruby version
+## Acesso à Aplicação
 
-* System dependencies
+Você pode acessar nossa aplicação implantada no [Render](https://projeto-esi.onrender.com/).
 
-* Configuration
 
-* Database creation
+**Descrição do Problema:**
 
-* Database initialization
+A definir
 
-* How to run the test suite
+### Integrantes do Projeto
 
-* Services (job queues, cache servers, search engines, etc.)
+- Guilherme Sebastião Teodoro Junior
+- Caio Katsumi Hayashi
+- Rafael Ferreira Mendes
 
-* Deployment instructions
 
-* ...
+
